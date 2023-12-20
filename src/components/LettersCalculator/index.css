@@ -1,0 +1,29 @@
+.bg-con {
+  background-image: linear-gradient(to right, #1d976c, #93f9b9);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.image {
+  height: 200px;
+  width: 400px;
+  margin-top: 20px;
+}
+.head {
+  color: #ffffff;
+}
+.in-card {
+  background-color: #ffffff;
+  color: #219a6f;
+  height: 50px;
+  width: 150px;
+  border-radius: 5px;
+  padding: 10px;
+  margin-top: 15px;
+  padding-bottom: 10px;
+}
+.font {
+  color: white;
+}
